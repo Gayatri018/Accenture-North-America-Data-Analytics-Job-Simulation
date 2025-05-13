@@ -47,9 +47,4 @@ It simulates the role of a **Data Analyst** working with a hypothetical **social
 
 Click the link below to view my certificate of completion for the Accenture North America Data Analytics & Visualization Virtual Internship on Forage.
 
-[🎓 View Certificate (PDF)](./Accenture_Certificate.pdf)
-
-Alternatively, click the thumbnail below:
-
-[![View Certificate](./certificate_thumbnail.png)](./Accenture North America - Data Analytics and Visualization Job Simulation.pdf)
-
+[🎓 View Certificate (PDF)](./Accenture North America - Data Analytics and Visualization Job Simulation.pdf)
